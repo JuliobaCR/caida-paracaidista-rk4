@@ -1,0 +1,14 @@
+# Ejecutables y archivos de compilación
+*.o
+*.ppu
+*.mod
+*.exe
+paracaidas
+paracaidas_*
+prueba_rk4
+prueba_*
+!prueba_rk4.c
+!prueba_rk4.pas
+!prueba_rk4.f90
+# Archivos temporales de Word
+~$*
